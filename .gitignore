@@ -1,0 +1,22 @@
+# Backup & temporary SQL files
+*.sql~
+*.tmp
+*.bak
+*.log
+
+# .env files with credentials
+.env
+*.env
+
+# SQLite (in case accidentally added)
+*.sqlite
+*.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS-specific
+__MACOSX/
